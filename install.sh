@@ -14,6 +14,7 @@ if [ -d "${mapping_destination}" ];
 	else
 		echo "\t..mapping location does not exist here."
 		echo "\t..try installing Serato DJ Pro first."
+		exit 0
 fi
 }
 test_mapping_exists() {
