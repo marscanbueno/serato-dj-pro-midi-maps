@@ -20,11 +20,11 @@ test_mapping_exists() {
 	if [[ -e "${mapping_file}" ]];
 		then
 			echo "\t..you already have a copy of the current version of the mapping.\n\n"
-				read -p "Overwrite ${mapping_file}?  " -n 1;
-				echo "";
-				if [[ $REPLY =~ ^[Yy]$ ]]; then
-						curl -LJO https://raw.githubusercontent.com/marscanbueno/MidiMaps/master/marS_PioneerDJMS9v169.xml
-				fi
+			read -p "Overwrite ${mapping_file}?  " -n 1;
+			echo "";
+			if [[ $REPLY =~ ^[Yy]$ ]]; then
+				curl -LJO https://raw.githubusercontent.com/marscanbueno/MidiMaps/master/marS_PioneerDJMS9v169.xml
+			fi
 		else
 			echo "\t..attemting to download and install ${mapping_file}.\n\n"
 			curl -LJO https://raw.githubusercontent.com/marscanbueno/MidiMaps/master/marS_PioneerDJMS9v169.xml
