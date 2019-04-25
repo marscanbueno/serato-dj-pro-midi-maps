@@ -38,3 +38,4 @@ test_mapping_location_exists
 test_mapping_exists
 
 # end script
+exit
