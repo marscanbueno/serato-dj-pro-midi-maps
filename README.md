@@ -3,9 +3,28 @@ MidiMaps for Serato DJ Pro
 
 + [Pioneer DJM S9](#PioneerDJMS9)
   - [User Mode 1](#UserMode1)
+
+| Button(s) | Function | Description |
+| ----- | ----------- | ----- |
+| (L) Performance Pad 8 | Instant Double to Left Deck | Instant Doubles Active Track on Right Deck to Left Deck |
+| (R) Performance Pad 8 | Instant Double to Right Deck | Instant Doubles Active Track on Left Deck to Right Deck |
+| Shift + Panel / Utility | Audio Source Select |
+
   - [User Mode 2](#UserMode2)
+
+| Title | Description | Focus |
+| ----- | ----------- | ----- |
+
   - [User Mode 3](#UserMode3)
+
+| Title | Description | Focus |
+| ----- | ----------- | ----- |
+
   - [User Mode 4](#UserMode4)
+
+| Title | Description | Focus |
+| ----- | ----------- | ----- |
+
 + [Troubleshooting](#Troubleshooting)
 + [Tools](#Tools)
 + [Resources](#Resources)
@@ -28,11 +47,14 @@ MidiMaps for Serato DJ Pro
 
 ## Tools<a name="Tools"></a>
 
++
++
++
+
 ## Resources<a name="Resources"></a>
 
 | Title | Description | Focus |
-
-
-
-
-+ Go Here!
+| ----- | ----------- | ----- |
+| Go Here | This is a description | User Manuals, Firmware Updates, etc.. |
+| Go Here | This is a description | User Manuals, Firmware Updates, etc.. |
+| Go Here | This is a description | User Manuals, Firmware Updates, etc.. |
