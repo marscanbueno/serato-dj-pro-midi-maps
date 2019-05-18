@@ -3,28 +3,9 @@ MidiMaps for Serato DJ Pro
 
 + [Pioneer DJM S9](#PioneerDJMS9)
   - [User Mode 1](#UserMode1)
-
-| Button(s) | Function | Description |
-| ----- | ----------- | ----- |
-| (L) Performance Pad 8 | Instant Double to Left Deck | Instant Doubles Active Track on Right Deck to Left Deck |
-| (R) Performance Pad 8 | Instant Double to Right Deck | Instant Doubles Active Track on Left Deck to Right Deck |
-| Shift + Panel / Utility | Audio Source Select |
-
   - [User Mode 2](#UserMode2)
-
-| Title | Description | Focus |
-| ----- | ----------- | ----- |
-
   - [User Mode 3](#UserMode3)
-
-| Title | Description | Focus |
-| ----- | ----------- | ----- |
-
   - [User Mode 4](#UserMode4)
-
-| Title | Description | Focus |
-| ----- | ----------- | ----- |
-
 + [Troubleshooting](#Troubleshooting)
 + [Tools](#Tools)
 + [Resources](#Resources)
@@ -37,11 +18,26 @@ MidiMaps for Serato DJ Pro
 
 ### User Mode 1<a name="UserMode1"></a>
 
+| Button(s) | Function | Description |
+| ----- | ----------- | ----- |
+| (L) Performance Pad 8 | Instant Double to Left Deck | Instant Doubles Active Track on Right Deck to Left Deck |
+| (R) Performance Pad 8 | Instant Double to Right Deck | Instant Doubles Active Track on Left Deck to Right Deck |
+| Shift + Panel / Utility | Audio Source Select |
+
 ### User Mode 2<a name="UserMode2"></a>
+
+| Title | Description | Focus |
+| ----- | ----------- | ----- |
 
 ### User Mode 3<a name="UserMode3"></a>
 
+| Title | Description | Focus |
+| ----- | ----------- | ----- |
+
 ### User Mode 4<a name="UserMode4"></a>
+
+| Title | Description | Focus |
+| ----- | ----------- | ----- |
 
 ### Troubleshooting<a name="Troubleshooting"></a>
 
