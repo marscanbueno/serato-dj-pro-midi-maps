@@ -31,8 +31,8 @@ MidiMaps for Serato DJ Pro
 ## Getting Started<a name="GettingStarted"></a>
 ### Prerequisites<a name="Prerequisites"></a>
 
-- [x] [Serato DJ Pro](https://serato.com/dj/pro)
-- [x] [Pioneer DJM S9](https://www.pioneerdj.com/en-us/product/mixer/djm-s9/black/overview/)
+- [x] **GET** [Serato DJ Pro](https://serato.com/dj/pro)
+- [x] **GET** [Pioneer DJM S9](https://www.pioneerdj.com/en-us/product/mixer/djm-s9/black/overview/)
 
 ### Setup<a name="Setup"></a>
 
