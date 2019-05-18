@@ -7,11 +7,6 @@
 
 ![alt text](https://github.com/marscanbueno/MidiMaps/blob/master/Images/PioneerDJMS9-01.jpg "PioneerDJMS9-01")
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
 ## Table of Contents
 
 1. [About](#About)
@@ -35,8 +30,8 @@
 ## Getting Started<a name="GettingStarted"></a>
 ### Prerequisites<a name="Prerequisites"></a>
 
-- [x] **GET** [Serato DJ Pro](https://serato.com/dj/pro)
-- [x] **GET** [Pioneer DJM S9](https://www.pioneerdj.com/en-us/product/mixer/djm-s9/black/overview/)
+- [x] **GET** [Serato DJ Pro](https://serato.com/dj/pro) - **FREE** if you are using a Pioneer DJM-S9, theres no need to to pay to use Serato DJ Pro.
+- [x] **GET** [Pioneer DJM S9](https://www.pioneerdj.com/en-us/product/mixer/djm-s9/black/overview/) - You will of course need the hardware to utilize the MidiMapping.
 
 ### Setup<a name="Setup"></a>
 
