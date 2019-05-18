@@ -12,9 +12,9 @@ MidiMaps for Serato DJ Pro
 
 1. [About](#About)
 2. [Getting Started](#GettingStarted)
-  - [Prerequisites](#Prerequisites)
-  - [Setup](#Setup)
-  - [Configuration](#Configuration)
+  * [Prerequisites](#Prerequisites)
+  * [Setup](#Setup)
+  * [Configuration](#Configuration)
 3. [Usage](#Usage)
   - [Hot Cue Mode](#HotCueMode)
   - [User Mode 1](#UserMode1)
