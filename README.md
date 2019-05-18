@@ -1,12 +1,12 @@
 # MidiMaps<a name="About"></a>
 MidiMaps for Serato DJ Pro
 
+![alt text](https://github.com/marscanbueno/MidiMaps/blob/master/Images/PioneerDJMS9-01.jpg "PioneerDJMS9-01")
+
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
-
-![alt text](https://github.com/marscanbueno/MidiMaps/blob/master/Images/PioneerDJMS9-01.jpg "PioneerDJMS9-01")
 
 ## Table of Contents
 
@@ -30,9 +30,27 @@ MidiMaps for Serato DJ Pro
 
 ## Getting Started<a name="GettingStarted"></a>
 ### Prerequisites<a name="Prerequisites"></a>
+
+* [Serato DJ Pro](https://serato.com/dj/pro)
+* [Pioneer DJM S9](https://www.pioneerdj.com/en-us/product/mixer/djm-s9/black/overview/)
+
 ### Setup<a name="Setup"></a>
+
 ### Configuration<a name="Configuration"></a>
+
+#### DJM-S9 Setting Utility
+##### FX Bank - Bank A
+##### FX Bank - Bank B
+##### Preference
+
+
+
+#### Serato DJ Pro
+#####
 ## Usage<a name="Usage"></a>
+
+
+
 ### Pioneer DJM S9<a name="HotCueMode"></a>
 
 | Button(s) | Function | Description |
