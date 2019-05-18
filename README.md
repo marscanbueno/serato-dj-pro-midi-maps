@@ -36,9 +36,7 @@ MidiMaps for Serato DJ Pro
 
 ### Setup<a name="Setup"></a>
 
-```
-$HOME/Music/_Serato_/MIDI/Xml/
-```
+`$HOME/Music/_Serato_/MIDI/Xml/`
 
 ### Configuration<a name="Configuration"></a>
 
