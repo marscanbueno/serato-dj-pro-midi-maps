@@ -1,5 +1,9 @@
 # MidiMaps<a name="About"></a>
-MidiMaps for Serato DJ Pro
+#### MidiMaps for Serato DJ Pro
+
+* I maintain this repo as *my* backup for my Pioneer DJM-S9 MidiMap, as well as a few other pieces of hardware that i may use in my personal DJ setup.
+* You're quite welcome to make suggestions, however I may decline if it's not of personal value to me.
+
 
 ![alt text](https://github.com/marscanbueno/MidiMaps/blob/master/Images/PioneerDJMS9-01.jpg "PioneerDJMS9-01")
 
