@@ -3,8 +3,11 @@ MidiMaps for Serato DJ Pro
 ___
 
 * [Pioneer DJM S9](#PioneerDJMS9)
-* [Rane TTM 57mkII](#RaneTTM57mkII)
-
+ * User Mode 1
+ * User Mode 2
+ * User Mode 3
+ * User Mode 4
+ * Troubleshooting
 ---
 ## Pioneer DJM S9<a name="PioneerDJMS9"></a>
 
@@ -12,6 +15,7 @@ ___
 
 ..coming soon!
 
-## Rane TTM 57mkII<a name="RaneTTM57mkII"></a>
+---
+## Pioneer DJM S9 Resources
 
-..coming soon!
+* Pioneer DJ
