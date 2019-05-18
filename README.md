@@ -1,7 +1,22 @@
-# MidiMaps
+# MidiMaps<a name="About"></a>
 MidiMaps for Serato DJ Pro
 
-+ [Pioneer DJM S9](#PioneerDJMS9)
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+![alt text](https://github.com/marscanbueno/MidiMaps/blob/master/Images/PioneerDJMS9-01.jpg "PioneerDJMS9-01")
+
+## Table of Contents
+
+1. [About](#About)
++ [Getting Started](#GettingStarted)
+  - [Prerequisites](#Prerequisites)
+  - [Setup](#Setup)
+  - [Configuration](#Configuration)
++ [Usage](#Usage)
+  - [Hot Cue Mode](#HotCueMode)
   - [User Mode 1](#UserMode1)
   - [User Mode 2](#UserMode2)
   - [User Mode 3](#UserMode3)
@@ -9,14 +24,16 @@ MidiMaps for Serato DJ Pro
 + [Troubleshooting](#Troubleshooting)
 + [Tools](#Tools)
 + [Resources](#Resources)
++ [Contributing](#Contributing)
++ [License](#License)
++ [Acknowledgements](#Acknowledgements)
 
-## Pioneer DJM S9<a name="PioneerDJMS9"></a>
-
-![alt text](https://github.com/marscanbueno/MidiMaps/blob/master/Images/PioneerDJMS9-01.jpg "PioneerDJMS9-01")
-
-..coming soon!
-
-### User Mode 1<a name="UserMode1"></a>
+## Getting Started<a name="GettingStarted"></a>
+### Prerequisites<a name="Prerequisites"></a>
+### Setup<a name="Setup"></a>
+### Configuration<a name="Configuration"></a>
+## Usage<a name="Usage"></a>
+### Pioneer DJM S9<a name="HotCueMode"></a>
 
 | Button(s) | Function | Description |
 | ----- | ----------- | ----- |
@@ -58,3 +75,15 @@ MidiMaps for Serato DJ Pro
 | Go Here | This is a description | User Manuals, Firmware Updates, etc.. |
 | Go Here | This is a description | User Manuals, Firmware Updates, etc.. |
 | Go Here | This is a description | User Manuals, Firmware Updates, etc.. |
+
+## Contributing
+
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgements
+
++ Your mama!
