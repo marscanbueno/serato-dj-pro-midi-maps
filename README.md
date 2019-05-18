@@ -11,22 +11,22 @@ MidiMaps for Serato DJ Pro
 ## Table of Contents
 
 1. [About](#About)
-+ [Getting Started](#GettingStarted)
+2. [Getting Started](#GettingStarted)
   - [Prerequisites](#Prerequisites)
   - [Setup](#Setup)
   - [Configuration](#Configuration)
-+ [Usage](#Usage)
+3. [Usage](#Usage)
   - [Hot Cue Mode](#HotCueMode)
   - [User Mode 1](#UserMode1)
   - [User Mode 2](#UserMode2)
   - [User Mode 3](#UserMode3)
   - [User Mode 4](#UserMode4)
-+ [Troubleshooting](#Troubleshooting)
-+ [Tools](#Tools)
-+ [Resources](#Resources)
-+ [Contributing](#Contributing)
-+ [License](#License)
-+ [Acknowledgements](#Acknowledgements)
+4. [Troubleshooting](#Troubleshooting)
+5. [Tools](#Tools)
+6. [Resources](#Resources)
+7. [Contributing](#Contributing)
+8. [License](#License)
+9. [Acknowledgements](#Acknowledgements)
 
 ## Getting Started<a name="GettingStarted"></a>
 ### Prerequisites<a name="Prerequisites"></a>
