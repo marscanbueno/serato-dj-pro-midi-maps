@@ -20,8 +20,8 @@ MidiMaps for Serato DJ Pro
 
 | Button(s) | Function | Description |
 | ----- | ----------- | ----- |
-| (L Deck) Parameter 1 Button (L) | Censor | Censors Left Deck |
-| (L Deck) Parameter 1 Button (R) | Next Track | Loads Next Track to Left Deck |
+| (L Deck) Parameter 1 Left | Censor | Censors Left Deck |
+| (L Deck) Parameter 1 Right | Next Track | Loads Next Track to Left Deck |
 | (L Deck) Performance Pad 8 | Instant Double to Left Deck | Instant Doubles Active Track on Right Deck to Left Deck |
 | (R Deck) Performance Pad 8 | Instant Double to Right Deck | Instant Doubles Active Track on Left Deck to Right Deck |
 | Shift + Panel / Utility | Audio Source Select | Selects Turntables as Active Audio Source |
