@@ -15,6 +15,14 @@ ___
 
 ..coming soon!
 
+## User Mode 1
+
+## User Mode 2
+
+## User Mode 3
+
+## User Mode 4
+
 ---
 ## Pioneer DJM S9 Resources
 
