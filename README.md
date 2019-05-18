@@ -7,7 +7,7 @@ MidiMaps for Serato DJ Pro
   - [User Mode 3](#UserMode3)
   - [User Mode 4](#UserMode4)
 + [Troubleshooting](#Troubleshooting)
-  [Tools](#Tools)
++ [Tools](#Tools)
 + [Resources](#Resources)
 
 ## Pioneer DJM S9<a name="PioneerDJMS9"></a>
