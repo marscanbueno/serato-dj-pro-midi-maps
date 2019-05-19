@@ -1,7 +1,7 @@
 # MidiMaps<a name="About"></a>
 
 My collection of MidiMaps for Serato DJ Pro.  This repo currently contains MidiMappings for the following device(s):
-* [Pioneer DJM-S9](https://github.com/marscanbueno/MidiMaps/blob/master/PioneerDJM-S9.md)
+* [Pioneer DJM-S9](PioneerDJM-S9.md)
 
 #### Please Note..
 
