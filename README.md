@@ -27,8 +27,8 @@ My collection of MidiMaps for Serato DJ Pro.  This repo currently contains MidiM
 
 ###### via GUI<a name="via GUI">
   1. download / save the appropriate MidiMapping file for your hardware to the appropriate folder:
-    - **Mac**: Users --> Music --> _Serato_ --> MIDI --> Xml
-    - **Windows**: MyDocuments --> MyMusic --> _Serato_ --> MIDI --> Xml
+      - **Mac**: Users --> Music --> _Serato_ --> MIDI --> Xml
+      - **Windows**: MyDocuments --> MyMusic --> _Serato_ --> MIDI --> Xml
   2. open **Serato DJ Pro**, and connect associated harware
   3. within **Serato DJ Pro**, enter the **Setup** screen and navigate to the **MIDI** tab.
   4. click the hardware device you want to utilize with the associated MidiMapping file, and make sure that the "**Allow Serato Hardware Remapping**" box is checked.
