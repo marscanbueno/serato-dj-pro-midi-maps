@@ -36,10 +36,10 @@ The Pioneer DJM-S9 is primarily divided into 4 sections, consisting of the Brows
 | Button(s) | Function | Description |
 | --------- | ---------------- | ----- |
 | **(L Deck) Parameter 1 Left** | Censor | _Censors Left Deck_ |
-| **Shift + (L Deck) Parameter 1 Left** | Toggle PnT | _Toggles PnT On/Off on Left Deck_ |
+| **(L Deck) Parameter 2 Left** | Toggle PnT | _Toggles PnT On/Off on Left Deck_ |
 | **(L Deck) Parameter 1 Right** | Next Track | _Loads Next Track to Left Deck_ |
 | **(R Deck) Parameter 1 Left** | Censor | _Censors Right Deck_ |
-| **Shift + (R Deck) Parameter 1 Left** | Toggle PnT | _Toggles PnT On/Off on Right Deck_ |
+| **(R Deck) Parameter 2 Left** | Toggle PnT | _Toggles PnT On/Off on Right Deck_ |
 | **(R Deck) Parameter 1 Right** | Next Track | _Loads Next Track to Right Deck_ |
 | **(L Deck) Hot Cue 8** | Instant Double to Left Deck | Instant Doubles _Active Track on Right Deck to Left Deck_ |
 | **(R Deck) Hot Cue 8** | Instant Double to Right Deck | _Instant Doubles Active Track on Left Deck to Right Deck_ |
