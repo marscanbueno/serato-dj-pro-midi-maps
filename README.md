@@ -1,108 +1,38 @@
 # MidiMaps<a name="About"></a>
-#### MidiMaps for Serato DJ Pro
+
+My collection of MidiMaps for Serato DJ Pro.  This repo currently contains MidiMappings for the following device(s):
+* Pioneer DJM-S9
+
+#### Please Note..
 
 * I maintain this repo as *my* backup for my Pioneer DJM-S9 MidiMap, as well as a few other pieces of hardware that i may use in my personal DJ setup.
 * You're quite welcome to make suggestions, however I may decline if it's not of personal value to me.
 
-
-![alt text](https://github.com/marscanbueno/MidiMaps/blob/master/Images/PioneerDJMS9-01.jpg "PioneerDJMS9-01")
-
 ## Table of Contents
 
-1. [About](#About)
-2. [Getting Started](#GettingStarted)
-   * [Prerequisites](#Prerequisites)
-   * [Setup](#Setup)
-   * [Configuration](#Configuration)
-3. [Usage](#Usage)
-   * [Hot Cue Mode](#HotCueMode)
-   * [User Mode 1](#UserMode1)
-   * [User Mode 2](#UserMode2)
-   * [User Mode 3](#UserMode3)
-   * [User Mode 4](#UserMode4)
-4. [Troubleshooting](#Troubleshooting)
-5. [Tools](#Tools)
-6. [Resources](#Resources)
-7. [Contributing](#Contributing)
-8. [License](#License)
-9. [Acknowledgements](#Acknowledgements)
+  1. [About](#About)
+  2. [Prerequisites](#Prerequisites)
+  3. [Setup](#Setup)
+    * [via GUI](#via GUI)
+    * [via terminal](#via terminal) - *coming soon*
+    * [via script](#via script) - *coming soon*
+  4. [Resources](#Resources) - *coming soon*
 
-## Getting Started<a name="GettingStarted"></a>
-### Prerequisites<a name="Prerequisites"></a>
+## Prerequisites<a name="Prerequisites"></a>
 
-- [x] **GET** [Serato DJ Pro](https://serato.com/dj/pro) - **FREE** if you are using a Pioneer DJM-S9, theres no need to to pay to use Serato DJ Pro.
-- [x] **GET** [Pioneer DJM S9](https://www.pioneerdj.com/en-us/product/mixer/djm-s9/black/overview/) - You will of course need the hardware to utilize the MidiMapping.
+- [x] **GET** [Serato DJ Pro](https://serato.com/dj/pro) - Serato DJ Pro is **FREE** if you are using a Pioneer DJM-S9.
 
-### Setup<a name="Setup"></a>
+## Setup<a name="Setup"></a>
+#### Installing & Using the MidiMapping Files
 
-`$HOME/Music/_Serato_/MIDI/Xml/`
+###### via GUI<a name="via GUI">
+  1. download / save the appropriate MidiMapping file for your hardware to the appropriate folder:
+    * **Mac**: Users --> Music --> _Serato_ --> MIDI --> Xml
+    * **Windows**: MyDocuments --> MyMusic --> _Serato_ --> MIDI --> Xml
+  2. open **Serato DJ Pro**, and connect associated harware
+  3. within **Serato DJ Pro**, enter the **Setup** screen and navigate to the **MIDI** tab.
+  4. click the hardware device you want to utilize with the associated MidiMapping file, and make sure that the "**Allow Serato Hardware Remapping**" box is checked.
+  5. select the appropriate MidiMapping file, and click **Load** to load the mapping.
+  6. **Enjoy!**
 
-### Configuration<a name="Configuration"></a>
-
-#### DJM-S9 Setting Utility
-##### FX Bank - Bank A
-##### FX Bank - Bank B
-##### Preference
-
-
-
-#### Serato DJ Pro
-#####
-## Usage<a name="Usage"></a>
-
-
-
-### Pioneer DJM S9<a name="HotCueMode"></a>
-
-| Button(s) | Function | Description |
-| ----- | ----------- | ----- |
-| **(L Deck) Parameter 1 Left** | Censor | _Censors Left Deck_ |
-| **(L Deck) Parameter 1 Right** | Next Track | _Loads Next Track to Left Deck_ |
-| **(R Deck) Parameter 1 Left** | Censor | _Censors Right Deck_ |
-| **(R Deck) Parameter 1 Right** | Next Track | _Loads Next Track to Right Deck_ |
-| **(L Deck) Hot Cue 8** | Instant Double to Left Deck | Instant Doubles _Active Track on Right Deck to Left Deck_ |
-| **(R Deck) Hot Cue 8** | Instant Double to Right Deck | _Instant Doubles Active Track on Left Deck to Right Deck_ |
-| **Shift + Panel / Utility** | Audio Source Select | _Selects Turntables as Active Audio Source_ |
-
-### User Mode 2<a name="UserMode2"></a>
-
-| Title | Description | Focus |
-| ----- | ----------- | ----- |
-
-### User Mode 3<a name="UserMode3"></a>
-
-| Title | Description | Focus |
-| ----- | ----------- | ----- |
-
-### User Mode 4<a name="UserMode4"></a>
-
-| Title | Description | Focus |
-| ----- | ----------- | ----- |
-
-### Troubleshooting<a name="Troubleshooting"></a>
-
-## Tools<a name="Tools"></a>
-
-+
-+
-+
-
-## Resources<a name="Resources"></a>
-
-| Title | Description | Focus |
-| ----- | ----------- | ----- |
-| Go Here | This is a description | User Manuals, Firmware Updates, etc.. |
-| Go Here | This is a description | User Manuals, Firmware Updates, etc.. |
-| Go Here | This is a description | User Manuals, Firmware Updates, etc.. |
-
-## Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-## Acknowledgements
-
-+ Your mama!
+  ## Resources<a name="Resources"></a>
