@@ -29,7 +29,7 @@ The Pioneer DJM-S9 is primarily divided into 4 sections, consisting of the Brows
 
 | Button(s) | Function | Description |
 | ----- | ----------- | ----- |
-| **Shift + Panel / Utility** | Audio Source Select | _Selects Turntables as Active Audio Source_ |
+| **Shift + Panel / Utility Button** | Audio Source Select | _Selects Turntables as Active Audio Source_ |
 
 #### Hot Cue Mode
 
