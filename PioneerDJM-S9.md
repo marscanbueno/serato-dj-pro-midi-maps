@@ -18,7 +18,7 @@ My personal MidiMapping file for use with the [Pioneer DJM-S9](PioneerDJM-S9.md)
 ## Prerequisites<a name="Prerequisites"></a>
 
 - [x] **GET** [Serato DJ Pro](https://serato.com/dj/pro) - Serato DJ Pro is **FREE** if you are using a Pioneer DJM-S9.
-- [x] **GET** [marS-PioneerDJMS9v169.xml](PioneerDJMS9v169.xml) - The latest version of my MidiMapping for the Pioneer DJM-S9.
+- [x] **GET** [marS_PioneerDJMS9v169.xml](marS_PioneerDJMS9v169.xml) - The latest version of my MidiMapping file for the Pioneer DJM-S9.
 - [x] **READ** [README.md](README.md) - Instructions for Installing / Using MidiMapping Files
 
 ## Usage<a name="Usage"></a>
@@ -36,15 +36,12 @@ The Pioneer DJM-S9 is primarily divided into 4 sections, consisting of the Brows
 | Button(s) | Function | Description |
 | --------- | ---------------- | ----- |
 | **(L Deck) Parameter 1 Left** | Censor | _Censors Left Deck_ |
-| **(L Deck) Parameter 2 Left** | Toggle PnT | _Toggles PnT On/Off on Left Deck_ |
 | **(L Deck) Parameter 1 Right** | Next Track | _Loads Next Track to Left Deck_ |
+| **(L Deck) Parameter 2 Left** | Toggle PnT | _Toggles PnT On/Off on Left Deck_ |
 | **(R Deck) Parameter 1 Left** | Censor | _Censors Right Deck_ |
-| **(R Deck) Parameter 2 Left** | Toggle PnT | _Toggles PnT On/Off on Right Deck_ |
 | **(R Deck) Parameter 1 Right** | Next Track | _Loads Next Track to Right Deck_ |
+| **(R Deck) Parameter 2 Left** | Toggle PnT | _Toggles PnT On/Off on Right Deck_ |
 | **(L Deck) Hot Cue 8** | Instant Double to Left Deck | Instant Doubles _Active Track on Right Deck to Left Deck_ |
 | **(R Deck) Hot Cue 8** | Instant Double to Right Deck | _Instant Doubles Active Track on Left Deck to Right Deck_ |
 
-#### User Mode 1
-#### User Mode 2
-#### User Mode 3
-#### User Mode 4
+## Resources<a name="Resources"></a>
