@@ -25,7 +25,7 @@ My collection of MidiMaps for Serato DJ Pro.  This repo currently contains MidiM
 ## Setup<a name="Setup"></a>
 #### Installing & Using the MidiMapping Files
 
-###### via GUI<a name="via GUI">
+###### via GUI<a name="viaGUI">
   1. download / save the appropriate MidiMapping file for your hardware to the appropriate folder:
       - **Mac**: Users --> Music --> _Serato_ --> MIDI --> Xml
       - **Windows**: MyDocuments --> MyMusic --> _Serato_ --> MIDI --> Xml
