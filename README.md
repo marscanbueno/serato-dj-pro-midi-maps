@@ -13,9 +13,9 @@ My collection of MidiMaps for Serato DJ Pro.  This repo currently contains MidiM
   1. [About](#About)
   2. [Prerequisites](#Prerequisites)
   3. [Setup](#Setup)
-    * [via GUI](#via GUI)
-    * [via terminal](#via terminal) - *coming soon*
-    * [via script](#via script) - *coming soon*
+    * [via GUI](#viaGUI)
+    * [via terminal](#viaterminal) - *coming soon*
+    * [via script](#viascript) - *coming soon*
   4. [Resources](#Resources) - *coming soon*
 
 ## Prerequisites<a name="Prerequisites"></a>
