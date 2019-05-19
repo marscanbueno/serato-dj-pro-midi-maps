@@ -28,13 +28,13 @@ The Pioneer DJM-S9 is primarily divided into 4 sections, consisting of the Brows
 #### Mixer Section
 
 | Button(s) | Function | Description |
-| ----- | ----------- | ----- |
+| --------- | ---------------- | ----- |
 | **Shift + Panel / Utility Button** | Audio Source Select | _Selects Turntables as Active Audio Source_ |
 
 #### Hot Cue Mode
 
 | Button(s) | Function | Description |
-| ----- | ----------- | ----- |
+| --------- | ---------------- | ----- |
 | **(L Deck) Parameter 1 Left** | Censor | _Censors Left Deck_ |
 | **Shift + (L Deck) Parameter 1 Left** | Toggle PnT | _Toggles PnT On/Off on Left Deck_ |
 | **(L Deck) Parameter 1 Right** | Next Track | _Loads Next Track to Left Deck_ |
