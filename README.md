@@ -1,4 +1,5 @@
 # MidiMaps<a name="About"></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 My collection of MidiMaps for Serato DJ Pro.  This repo currently contains MidiMappings for the following device(s):
 * [Pioneer DJM-S9](PioneerDJM-S9.md)
