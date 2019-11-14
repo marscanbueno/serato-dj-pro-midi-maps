@@ -20,13 +20,14 @@ My collection of MidiMaps for Serato DJ Pro.  This repo currently contains MidiM
         * Using ```WGET```
     * Windows - *coming soon*
 * [Setup](#setup)
+* [Usage](#usage)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
 * [Resources](#resources)
 
 ## Getting Started<a name="gettingstarted"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the MidiMappings up and running on your local machine for performance and testing purposes.
 
 ### Prerequisites<a name="prerequisites"></a>
 
@@ -39,22 +40,32 @@ These instructions will get you a copy of the project up and running on your loc
 
 Installation via GUI is relatively simple, and therefore instructions are not provided.
 
-1. download / save the appropriate MidiMapping file for your hardware to the appropriate folder:
-      - **MacOS**: Users --> _username_ --> Music --> _Serato_ --> MIDI --> Xml
+1. download / save the appropriate MidiMapping file for your hardware to the appropriate folder.
+
+#### **MacOS**: Users --> _username_ --> Music --> _Serato_ --> MIDI --> Xml
         
-        - via **curl**
-        
+- via **curl**
+    - Pioneer DJM-S9 MidiMapping
         ```
         (cd ~/Music/_Serato_/Midi/Xml && curl -LJO "https://raw.githubusercontent.com/marscanbueno/MidiMaps/master/marS_PioneerDJMS9v169.xml")
         ```
-        
-        - via **wget**
-        
-        ```
-        (cd ~/Music/_Serato_/Midi/Xml && wget "https://raw.githubusercontent.com/marscanbueno/MidiMaps/master/marS_PioneerDJMS9v169.xml")
+    - Rane 72 MidiMapping
         ```
         
-      - **Windows**: - *coming soon*
+        ```
+        
+- via **wget**
+    - Pioneer DJM-S9 MidiMapping
+
+    ```
+    (cd ~/Music/_Serato_/Midi/Xml && wget "https://raw.githubusercontent.com/marscanbueno/MidiMaps/master/marS_PioneerDJMS9v169.xml")
+    ```
+    - Rane 72 MidiMapping
+        ```
+        
+        ```
+
+#### **Windows**: - *coming soon*
 
 ### Setup<a name="setup"></a>
 
@@ -63,6 +74,12 @@ Installation via GUI is relatively simple, and therefore instructions are not pr
 3. click the hardware device you want to utilize with the associated MidiMapping file, and make sure that the "**Allow Serato Hardware Remapping**" box is checked.
 4. select the appropriate MidiMapping file, and click **Load** to load the mapping.
 5. **Enjoy!**
+
+### Usage<a name="usage"></a>
+
+Details regarding the MidiMappings are provided below:
+- Pioneer DJM-S9
+- Rane 72
 
 ## Contributing<a name="contributing"></a>
 
